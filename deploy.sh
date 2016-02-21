@@ -16,5 +16,3 @@ cp -r ../mackenzie/* ../server/.
 
 cd ../server
 npm install
-
-
